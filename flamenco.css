@@ -1,0 +1,141 @@
+.pr {
+    font-family: 'Dancing Script', cursive;
+    position: relative;
+    left: 25%;
+}
+.box1 {
+    background-image: url(images/background1.jpg);
+    color: #ffffff;
+    
+}
+
+.flamenco1 {
+    width: 100%;
+    height: 700px;
+}
+.flamenco2 {
+    width: 100%;
+    height: 700px;
+}
+.flamenco3 {
+    width: 100%;
+    height: 700px;
+}
+.circle1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    
+}
+.circle2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+.circle3 {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+html {
+    background-color: black;
+    
+}
+.bloque1 {
+    float: left;
+    position: relative;
+    top: 200px;
+    left: 150px;
+    text-align: center;
+    color: #ffffff;
+}
+.bloque2 {
+    float: left;
+    position: relative;
+    top: 200px;
+    left: 250px;
+    text-align: center;
+    color: #ffffff
+}
+.bloque3 {
+    position: relative;
+    top: 200px;
+    left: 350px;
+    float: left;
+    text-align: center;
+    color: #ffffff
+}
+.card-img1{
+    width: 200px;
+    height: 200px;
+}
+.card-body1 {
+    margin-left: 40px;
+}
+.card1 {
+    position: relative;
+    top: 80px;
+    background-color: black;
+    color: #ffffff
+}
+.card-img2 {
+
+}
+.card-body2 {
+    margin-left: 40px;
+}
+.card2 {
+    width: 560px;
+    position: relative;
+    right: 50px;
+    bottom: 80px;
+    float: right;
+    background-color: black;
+    color: #ffffff;
+}
+.card-body3 {
+    margin-left: 60px;
+}
+.card3 {
+    position: relative;
+    top: 220px;
+    color: #ffffff
+}
+.card4 {
+    position: relative;
+    top: 100px;
+    left: 350px;
+    float: right;
+    color: #ffffff
+}
+.card-img4 {
+position: relative;
+top: 50px;
+}
+.card-body4 {
+    margin-left: 30px;
+}
+iframe {
+    width: 560px;
+    height: 315px;
+    position: relative;
+    left: 30%;
+    background-color: black;
+}
+.back {
+    background-color: black;
+}
+
+ .testback {
+     background-color: black;
+ }  
+ 
+ .footer {
+     background-color: red;
+     position: absolute;
+     top:1500px;
+     width:100%;
+     padding:20px;
+    text-align: center;
+
+ }
